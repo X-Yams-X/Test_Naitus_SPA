@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        ".vscode": true,
+        "*.sln": true,
+        "**/*.*.csproj": true,
+        "**/bin": true,
+        "**/obj": true
+    }
+}
